@@ -1,6 +1,0 @@
-streamlit==0.90.0
-transformers==4.10.0
-PyPDF2==1.26.0
-torch==1.10.0
-base64
-io
