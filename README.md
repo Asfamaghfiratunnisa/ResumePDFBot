@@ -8,7 +8,7 @@ This app is an LLM-powered chatbot built using:
 ## Step - 1
 
 ```
-  git clone [https://github.com/Asfamaghfiratunnisa/ResumePDFBot.git]
+  git clone https://github.com/Asfamaghfiratunnisa/ResumePDFBot.git
 ```
 
 ## Step - 2
